@@ -1,4 +1,4 @@
-<?php /*a:1:{s:74:"D:\phpstudy_pro\WWW\articleAdmin\web\application\index\view\index\btb.html";i:1584688238;}*/ ?>
+<?php /*a:1:{s:70:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\btb.html";i:1585189045;}*/ ?>
 <!DOCTYPE html>
 <!-- saved from url=(0051)http://qkl.jinbocc.com/yycj/show.php?lang=cn&id=120 -->
 <html lang="zh-CN" style="height: 100%;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -470,9 +470,10 @@
                         <div class="foot-logo">
                             <img src="/static/img/foot_logo.png">
                             <ul>
-                                <li><a href="#" target="_blank">赛思特科技官网</a></li>
-                                <li><a href="#" target="_blank">赛思特APP开发</a></li>
-                            
+                                <li><a href="#" target="_blank">区块链开发</a></li>
+                                <li><a href="#" target="_blank">隐私政策</a></li>
+                                <li><a href="/sitemap.xml" target="_blank">xml地图</a></li>
+                                <!-- <li><a href="#" target="_blank"></a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -543,7 +544,7 @@
     <div class="bottom_fix">
         <div class="bottom_left">
             <li>
-                <a href="/static/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
+                <a href="/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
             </li>
             <li>
                 <a href="tel:15188358607"><img src="/static/img/common_icon_tel.png">电话咨询</a>

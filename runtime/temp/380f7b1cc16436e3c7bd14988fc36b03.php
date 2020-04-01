@@ -1,4 +1,4 @@
-<?php /*a:1:{s:76:"D:\phpstudy_pro\WWW\articleAdmin\web\application\index\view\index\index.html";i:1584693027;}*/ ?>
+<?php /*a:1:{s:72:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\index.html";i:1585709561;}*/ ?>
 <!DOCTYPE html>
 <!-- saved from url=(0023)http://qkl.jinbocc.com/ -->
 <html lang="zh-CN" style="height: 100%;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,6 +14,8 @@
 <link rel="stylesheet" href="/static/css/app.css">
 <link rel="stylesheet" href="/static/css/common.css">
 <link rel="stylesheet" href="/static/css/swiper.min.css">
+<link rel="stylesheet" href="/static/css/index.css">
+<link rel="stylesheet" href="/static/css/owl.carousel.min.css">
 <script src="/static/js/jquery-1.8.3.min.js" type="text/javascript"></script>
 <script src="/static/js/jquery-3.4.1.min.js"></script>
 <script src="/static/js/bootstrap.js"></script>
@@ -68,8 +70,7 @@
     </nav>
 </div>
 
-<link rel="stylesheet" href="/static/css/index.css">
-<link rel="stylesheet" href="/static/css/owl.carousel.min.css">
+
 <section id="banner">
     <div class="swiper-container app-swiper swiper-container-horizontal" style="cursor: grab;">
         <div class="swiper-wrapper" style="transform: translate3d(-3729px, 0px, 0px); transition-duration: 300ms;">
@@ -127,7 +128,8 @@
                         <h2>数字货币交易所</h2>
                         <img src="/static/img/product1.png">
                         <p>定制开发币币交易系统，法币交易系统，场外交易系统及数字货币期货交易系统。</p>
-                        <a href="javascript:;" class="btn-close lx-btn">立即体验</a>
+                        <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=97693188&amp;site=qq&amp;menu=yes"
+                           class="more" target="_blank" class="btn-close lx-btn">立即体验</a>
                     </div>
                 </div>
             </div>
@@ -140,7 +142,8 @@
                         <h2>数字货币钱包</h2>
                         <img src="/static/img/product2.png">
                         <p>独立APP区块链钱包定制，适应区块链行业ICO应用及实际落地，多行业应用。</p>
-                        <a href="javascript:;"  class="btn-close lx-btn">立即体验</a>
+                        <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=97693188&amp;site=qq&amp;menu=yes"
+                           class="more" target="_blank"  class="btn-close lx-btn">立即体验</a>
                     </div>
                 </div>
             </div>
@@ -153,7 +156,8 @@
                         <h2>区块链物联网挖矿</h2>
                         <img src="/static/img/product3.png">
                         <p>通过区块链技术，实现区块链+物联网的落地产品，区块链商业生态建设尽在掌控。</p>
-                        <a href="javascript:;"  class="btn-close lx-btn">立即体验</a>
+                        <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=97693188&amp;site=qq&amp;menu=yes"
+                           class="more" target="_blank"  class="btn-close lx-btn">立即体验</a>
                     </div>
                 </div>
             </div>
@@ -166,7 +170,8 @@
                         <h2>区块链跑分系统</h2>
                         <img src="/static/img/product4.png">
                         <p>区块链加密通讯工具，加密聊天带给我们全方位的隐私保护，链接传统商业与区块链。</p>
-                        <a href="javascript:;"  class="btn-close lx-btn">立即体验</a>
+                        <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=97693188&amp;site=qq&amp;menu=yes"
+                           class="more" target="_blank"  class="btn-close lx-btn">立即体验</a>
                     </div>
                 </div>
             </div>
@@ -179,7 +184,8 @@
                         <h2>区块链游戏</h2>
                         <img src="/static/img/product5.png">
                         <p>并将商品溯源，通过将产品全上链，信息可查询，增加消费者信任度透明度</p>
-                        <a href="javascript:;" class="btn-close lx-btn">立即体验</a>
+                        <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=97693188&amp;site=qq&amp;menu=yes"
+                           class="more" target="_blank" class="btn-close lx-btn">立即体验</a>
                     </div>
                 </div>
             </div>
@@ -187,7 +193,7 @@
         </div>
     </div>
 </section>
-   
+
 
     <!--全套用户端-->
     <div class="home-qtyhd">
@@ -329,7 +335,7 @@
             </div>
         </div>
     </div>
-    
+
     <!--案例展示-->
         <div class="home-alzs">
             <div class="container"  style="overflow: hidden;position: relative;">
@@ -372,7 +378,7 @@
                 <li class="col-lg-3 wow fadeInUp" style="visibility: hidden; animation-name: none;">
                     <dl class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" style="visibility: hidden; animation-duration: 1s; animation-delay: 0.7s; animation-name: none;">
                         <dt><img src="/static/img/icon-34.png" alt=""></dt>
-                        <dd> 
+                        <dd>
                             <h3>高性价比的产品</h3>
                             <p>团队一致致力于产品性能升级、技术研究以及产品研发控制，通过合理管理为用户提供高性价比的成熟产品</p>
                         </dd>
@@ -436,43 +442,70 @@
                     <p>科技前沿、近期签约、产品动态，为您带来新鲜报道</p>
                 </div>
             </div>
-            <ul class="row"> 
-               <li class="col-md-4 col-sm-12">
-                   <h5>近期签约</h5>
+            <ul class="row top">
+               <li class="col-md-4 col-sm-12 padding" style="margin-top:20px ;padding: 0 !important;">
+                   <h5><?php echo htmlentities($cate[0]); ?></h5>
+                   <?php if($qyFirst != '暂无相关内容'): ?>
                    <div class="cottit"  id="SearchresultJq">
                        <img src="/static/img/newsimg1.png" alt=""><p>【区块链应用】<?php echo htmlentities($qyFirst['title']); ?></p>
                    </div>
-                   <dl id="SearchresultJqDl">
+                   <dl id="SearchresultJqDl" style="margin-left:20px;">
                        <?php if(is_array($qyList) || $qyList instanceof \think\Collection || $qyList instanceof \think\Paginator): $i = 0;$__LIST__ = is_array($qyList) ? array_slice($qyList,0,3, true) : $qyList->slice(0,3, true); if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$qyList): $mod = ($i % 2 );++$i;?>
-                       <dd><a href="<?php echo url('index/showDetail',array('id'=>$qyList['id'])); ?>"><?php echo $qyList['title']; ?></a></dd>
+                       <dd><a href="<?php echo url('index/index/showDetail',array('id'=>$qyList['id'])); ?>"><?php echo $qyList['title']; ?></a></dd>
                        <?php endforeach; endif; else: echo "" ;endif; ?>
                    </dl>
                    <a href="<?php echo url('index/articleList',array('categoryid'=>$qyList['category'])); ?>" rel="nofollow" class="newsmore">查看更多</a>
-                </li> 
-                <li class="col-md-4 col-sm-12">
-                    <h5>行业新闻</h5>
+                <?php else: ?>
+                   <div class="cottit" >
+                       <a href=""><img src="/static/img/newsimg1.png" alt=""><p>【区块链应用】<?php echo htmlentities($qyFirst); ?></p></a>
+                   </div>
+                   <dl id="SearchresultJqDl" style="margin-left:20px;">
+                       暂无相关内容
+                   </dl>
+                   <?php endif; ?>
+               </li>
+                <li class="col-md-4 col-sm-12 padding" style="margin-top:20px; padding: 0 !important;">
+                    <h5><?php echo htmlentities($cate[1]); ?></h5>
+                    <?php if($hyFirst != '暂无相关内容'): ?>
                     <div class="cottit" >
-                        <a href="<?php echo url('index/showDetail',array('id'=>$hyFirst['id'])); ?>"><img src="/static/img/20191128171026355.png" alt=""><p>【区块链应用】<?php echo htmlentities($hyFirst['title']); ?></p></a>
+                        <a href="<?php echo url('index/index/showDetail',array('id'=>$hyFirst['id'])); ?>"><img src="/static/img/20191128171026355.png" alt=""><p>【区块链应用】<?php echo htmlentities($hyFirst['title']); ?></p></a>
                     </div>
-                    <dl id="SearchresultJqDl">
+                    <dl id="SearchresultJqDl" style="margin-left:20px;">
                         <?php if(is_array($hyList) || $hyList instanceof \think\Collection || $hyList instanceof \think\Paginator): $i = 0;$__LIST__ = is_array($hyList) ? array_slice($hyList,0,3, true) : $hyList->slice(0,3, true); if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$hyList): $mod = ($i % 2 );++$i;?>
-                        <dd><a href="<?php echo url('index/showDetail',array('id'=>$hyList['id'])); ?>"><?php echo $hyList['title']; ?></a></dd>
+                        <dd><a href="<?php echo url('index/index/showDetail',array('id'=>$hyList['id'])); ?>"><?php echo $hyList['title']; ?></a></dd>
                         <?php endforeach; endif; else: echo "" ;endif; ?>
                     </dl>
                     <a href="<?php echo url('index/articleList',array('categoryid'=>$hyList['category'])); ?>" rel="nofollow" class="newsmore">查看更多</a>
-                 </li> 
-                 <li class="col-md-4 col-sm-12">
-                    <h5>测试新闻</h5>
+                    <?php else: ?>
                     <div class="cottit" >
-                        <a href="<?php echo url('index/showDetail',array('id'=>$csFirst['id'])); ?>"><img src="/static/img/20191026180239751.png" alt=""><p>【区块链应用】<?php echo htmlentities($csFirst['title']); ?></p></a>
+                        <a href=""><img src="/static/img/20191128171026355.png" alt=""><p>【区块链应用】<?php echo htmlentities($hyFirst); ?></p></a>
                     </div>
-                    <dl id="SearchresultJqDl">
+                    <dl id="SearchresultJqDl" style="margin-left:20px;">
+                        暂无相关内容
+                    </dl>
+                    <?php endif; ?>
+                </li>
+                 <li class="col-md-4 col-sm-12 padding" style="margin-top:20px; padding: 0 !important;">
+                    <h5><?php echo htmlentities($cate[2]); ?></h5>
+                     <?php if($csFirst != '暂无相关内容'): ?>
+                    <div class="cottit" >
+                        <a href="<?php echo url('index/index/showDetail',array('id'=>$csFirst['id'])); ?>"><img src="/static/img/20191026180239751.png" alt=""><p>【区块链应用】<?php echo htmlentities($csFirst['title']); ?></p></a>
+                    </div>
+                    <dl id="SearchresultJqDl" style="margin-left:20px;">
                         <?php if(is_array($csList) || $csList instanceof \think\Collection || $csList instanceof \think\Paginator): $i = 0;$__LIST__ = is_array($csList) ? array_slice($csList,0,3, true) : $csList->slice(0,3, true); if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$csList): $mod = ($i % 2 );++$i;?>
-                        <dd><a href="<?php echo url('index/showDetail',array('id'=>$csList['id'])); ?>"><?php echo $csList['title']; ?></a></dd>
+                        <dd><a href="<?php echo url('index/index/showDetail',array('id'=>$csList['id'])); ?>"><?php echo $csList['title']; ?></a></dd>
                         <?php endforeach; endif; else: echo "" ;endif; ?>
                     </dl>
                     <a href="<?php echo url('index/articleList',array('categoryid'=>$csList['category'])); ?>" rel="nofollow" class="newsmore">查看更多</a>
-                 </li> 
+                 <?php else: ?>
+                     <div class="cottit" >
+                         <a href=""><img src="/static/img/20191026180239751.png" alt=""><p>【区块链应用】<?php echo htmlentities($csFirst); ?></p></a>
+                     </div>
+                     <dl id="SearchresultJqDl" style="margin-left:20px;">
+                         暂无相关内容
+                     </dl>
+                 <?php endif; ?>
+                 </li>
             </ul>
         </div>
     </div>
@@ -521,7 +554,7 @@
             $("#content > div").hide(); //Hide all content
             $("#tabs a").attr("id", ""); //Reset id's
         }
-    
+
         var myUrl = window.location.href; //get URL
         var myUrlTab = myUrl.substring(myUrl.indexOf("#")); // For localhost/tabs.html#tab2, myUrlTab = #tab2
         var myUrlTabName = myUrlTab.substring(0, 4); // For the above example, myUrlTabName = #tab
@@ -546,7 +579,7 @@
                     $(myUrlTab).fadeIn(); // Show url tab content
                 }
             }
-        
+
 
         })()
     </script>
@@ -600,8 +633,8 @@
                     </dd>
                 </dl>
             </div>
-                
-    
+
+
         <div class="col-12 col-sm-12" style="margin-top: 43px ;">
                 <p class="text-center">
                     <img style="width: 101px;
@@ -620,7 +653,7 @@
                 <p class="foot-info">Copyright © 2017 &nbsp; 郑州赛思特电子科技有限公司 &nbsp; 版权所有 &nbsp;<a href="#" target="_blank"><img src="/static/img/beian.png"/>&nbsp;ICP备14001146号-1</a></p>
         </div>
         </div>
-         
+
 
         <link rel="stylesheet" href="/static/css/animate.min.css">
         <script src="/static/js/app.js"></script>
@@ -632,42 +665,13 @@
 
 <link href="/static/css/kf.css" type="text/css" rel="stylesheet">
 <script src="/static/js/kf.js"></script>
-<script language="javascript">
-      var viewH = window.screen.width;  //可见高度 
-      var num=4;
-      if(viewH<1024&&viewH>768){
-        num=3
-      }else if(viewH<768&&viewH>468){
-        num=2
-      }else if(viewH<=468){
-        num=2
-      }
-      var swiper = new Swiper('.swiper-containers', {
-        slidesPerView:num,
-        spaceBetween: 30,
-        autoplay: {
-            delay: 5000,
-            disableOnInteraction: false,
-        },
-        pagination: {
-          el: '.swiper-pagination',
-          clickable: true,
-        },
-      });
-    // if(document.all || document.getElementById)
-    // {
-    //     document.write('<span id="LR_User_Icon0"></span>');
-    // }
-    // else if(document.layers)
-    // {
-    //     document.write('<layer name="LR_User_Icon0"></layer>');
-    // }
-</script>
+
+
 <span id="LR_User_Icon0">
     <div class="bottom_fix">
         <div class="bottom_left">
             <li>
-                <a href="index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
+                <a href="/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
             </li>
             <li>
                 <a href="tel:15188358607"><img src="/static/img/common_icon_tel.png">电话咨询</a>
@@ -706,62 +710,68 @@
 <script language="javascript" src="/static/js/LsJS.aspx"></script>
 <link href="/static/css/JS5.css" rel="stylesheet" type="text/css">
 
-<!-- <script language="javascript">
-    
-    LR_GetObj('LR_User_Icon0').innerHTML='<div class="dui-kf-box"><a '+LiveReceptionCode_BuildChatWin('对话说明','欢迎点击咨询')+' target="_blank"><img src="/static/img/kf_img.png" class="kf-img" border="0"><img class="kf-btn" src="/static/img/tc.gif"></a><a class="dui-kf-closebt"><img style="width: 70%" src="/static/img/kf_closebt.png"></a></div>';
 
-    //    浮动客服 <a '+LiveReceptionCode_BuildChatWin('对话说明','客服人员在线,欢迎点击咨询')+' target="_blank">在线咨询</a>
-    LR_GetObj('LR_User_TextLink0').innerHTML='<div class="dui-kf-main" id="xfkefu"><div id="open_im" class="open-im">&nbsp;</div><div class="im_main" id="im_main" ><div id="close_im" class="close-im"><a href="javascript:void(0);" title="点击关闭" target="_blank"><img src="/static/img/kf_closebt2.png"></a></div><ul class="dui-kf-ul"><li><a class="zx-hover" '+LiveReceptionCode_BuildChatWin('对话说明','客服人员在线,欢迎点击咨询')+' target="_blank"><div class="dui-kf-d">1</div></a></li><li><a class="qq-hover" href="http://wpa.qq.com/msgrd?v=3&uin=97693188&site=qq&menu=yes" target="_blank" title="客服人员在线,欢迎点击咨询"></a></li><li><a class="sh-hover" href="http://wpa.qq.com/msgrd?v=3&uin=196290158&site=qq&menu=yes" target="_blank" title="客服人员在线,欢迎点击咨询">&nbsp;</a></li><li><img src="/static/img/kf_4.jpg"></li><li><img src="/static/img/kf_5.jpg"></li></ul></div></div>';
-</script> -->
-<!-- <script language="javascript">
-    /*弹窗 */
-    LR_GetObj('LR_User_Icon0').innerHTML='<div class="bottom_fix">' +
-        '<div class="bottom_left">' +
-        '<li><a href="/"><img src="/static/img/common_icon_home.png">首页</a></li>' +
-        '<li><a href="tel:15188358607" ><img src="/static/img/common_icon_tel.gif">电话</a></li></div>' +
-        '<div class="xuanfu_mi"><a '+LiveReceptionCode_BuildChatWin('对话说明','欢迎点击咨询')+' target="_blank"><img src="/static/img/common_icon_msg.png"></a><sup>2</sup></div>' +
-        '<div class="bottom_right">' +
-        '<li><a href="http://wpa.qq.com/msgrd?v=3&uin=97693188&site=qq&menu=yes" target="_blank"><img src="/static/img/common_icon_qq.png">QQ</a></li>' +
-        '<li><a href="http://api.map.baidu.com/geocoder?output=html&address=郑州市东城区东城中路辉煌商务大厦七楼D17号" target="_blank"><img src="/static/img/common_icon_dh.png">导航</a></li></div></div>';
-</script> -->
-<!-- <script type="text/javascript">
-    Kefu('xfkefu',180,0);
-    lastScrollY=0;
-</script> -->
     <script type="text/javascript">
-        var myNav = document.getElementById("navbarsExample07").getElementsByClassName('nav-link');
-        for (var i = 0; i < myNav.length; i++) {
-            var links = myNav[i].getAttribute("href");
-            // alert(links);
-            // alert(myNav[i]);
-            var myURL = document.location.href;
-            if (myURL.indexOf(links) != -1) {
-                myNav[i].parentNode.className = "nav-item active";
+        var viewH = $(window).width(); //可见高度 
+        var num;
+
+        resizeFun(); //初始调用一次
+
+        function resizeFun() {
+
+            viewH = $(window).width(); //可见高度 
+            if (viewH >= 1024) {
+                num = 4;
+            } else if (viewH < 1024 && viewH > 768) {
+                num = 3
+            } else if (viewH < 768 && viewH > 468) {
+                num = 2
+            } else if (viewH <= 468) {
+                num = 2
             }
+            var swiper = new Swiper('.swiper-containers', {
+                slidesPerView: num,
+                spaceBetween: 30,
+                autoplay: {
+                    delay: 5000,
+                    disableOnInteraction: false,
+                },
+                pagination: {
+                    el: '.swiper-pagination',
+                    clickable: true,
+                },
+            });
         }
 
-     var viewH = window.screen.width;  //可见高度 
-       $(window).resize(function(){
-          viewH = window.screen.width;  //可见高度 
-        })
-      var num=4;
-      if(viewH>768){
-        $(".nav-logo").attr({src:'/static/img/1572577150.png'})
-        $(window).scroll(function(){
-            /*  console.log($(".navbar").offset().top)*/
-            if ($(this).scrollTop() > 50) {
-                $(".nav-logo").attr({src:'/static/img/1572577150s.png'})
-                $(".app-navbar").addClass("navbar-fixed-top");
-            } else if($(this).scrollTop() <50&&viewH>768) {
-                $(".nav-logo").attr({src:'/static/img/1572577150.png'})
-                 $(".app-navbar").removeClass("navbar-fixed-top");
+        $(window).resize(function (v) {
+            let widht = v.target.innerWidth
+            if (v.target.innerWidth != viewH) {
+                window.location.reload();
             }
+            resizeFun();
         });
-      }else if(viewH<=768){
-        $(".app-navbar").addClass("navbar-fixed-top");
-        $(".nav-logo").attr({src:'/static/img/1572577150s.png'})
-      }
-   
+
+
+        var viewH = window.screen.width;  //可见高度
+        $(window).resize(function(){
+            viewH = window.screen.width;  //可见高度
+        })
+        var num=4;
+        if(viewH>768){
+            $(".nav-logo").attr({src:'/static/img/1572577150.png'})
+            $(window).scroll(function(){
+                /*  console.log($(".navbar").offset().top)*/
+                if ($(this).scrollTop() > 50) {
+                    $(".nav-logo").attr({src:'/static/img/1572577150s.png'})
+                    // $(".app-navbar").addClass("navbar-fixed-top");
+                } else if($(this).scrollTop()<50) {
+                    $(".nav-logo").attr({src:'/static/img/1572577150.png'})
+                    //  $(".app-navbar").removeClass("navbar-fixed-top");
+                }
+            });
+        }else if(viewH<=768){
+            $(".nav-logo").attr({src:'/static/img/1572577150s.png'})
+        }
     </script>
     <!---->
 </div>

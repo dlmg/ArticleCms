@@ -1,3 +1,4 @@
+<?php /*a:1:{s:74:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\contact.html";i:1585189054;}*/ ?>
 
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -9,18 +10,18 @@
 <meta name="description" content="赛思特科技是一家基于区块链虚拟币系统开发的数字货币交易所平台，专注为互联网金融领域的区块链钱包、区块链系统开发、数字货币开发及区块链技术开发问题提供数据共享资源解决方案" />
 <meta name="keywords" content="区块链技术开发,虚拟币系统,数字货币交易所平台开发,区块链钱包开发">
 <meta name="keywords" content="Website Keywords">
-<link rel="icon" type="image/png" sizes="96x96" href="__PUBLIC__/img/favicon.ico">
-<link rel="stylesheet" href="__PUBLIC__/css/bootstrap.css" >
-<link rel="stylesheet" href="__PUBLIC__/css/font-awesome.min.css" >
-<link rel="stylesheet" href="__PUBLIC__/css/reset.css" >
-<link rel="stylesheet" href="__PUBLIC__/css/app.css" >
-<!-- <link rel="stylesheet" href="__PUBLIC__/css/common.css" > -->
-<!-- <link rel="stylesheet" href="__PUBLIC__/css/ptfa.css" > -->
-<link rel="stylesheet" href="__PUBLIC__/css/ptfas.css" >
-<link rel="stylesheet" href="__PUBLIC__/css/swiper.min.css" >
-<script src="__PUBLIC__/js/jquery-1.8.3.min.js" type="text/javascript"></script>
-<script src="__PUBLIC__/js/jquery-3.4.1.min.js" ></script>
-<script src="__PUBLIC__/js/bootstrap.js" tppabs="/js/bootstrap.js"></script>
+<link rel="icon" type="image/png" sizes="96x96" href="/static/img/favicon.ico">
+<link rel="stylesheet" href="/static/css/bootstrap.css" >
+<link rel="stylesheet" href="/static/css/font-awesome.min.css" >
+<link rel="stylesheet" href="/static/css/reset.css" >
+<link rel="stylesheet" href="/static/css/app.css" >
+<!-- <link rel="stylesheet" href="/static/css/common.css" > -->
+<!-- <link rel="stylesheet" href="/static/css/ptfa.css" > -->
+<link rel="stylesheet" href="/static/css/ptfas.css" >
+<link rel="stylesheet" href="/static/css/swiper.min.css" >
+<script src="/static/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="/static/js/jquery-3.4.1.min.js" ></script>
+<script src="/static/js/bootstrap.js" tppabs="/js/bootstrap.js"></script>
 <style>
     .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
     .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
@@ -35,7 +36,7 @@
         <nav class="navbar navbar-expand-md navbar-dark app-navbar ">
                 <div class="container">
                     <a class="navbar-brand" href="/index.html" >
-                        <img class="nav-logo" src="__PUBLIC__/img/1572577150.png"  alt="赛思特科技logo"/></a>
+                        <img class="nav-logo" src="/static/img/1572577150.png"  alt="赛思特科技logo"/></a>
                         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="" style="color: #000;">☰</span>
                         </button>
@@ -48,15 +49,15 @@
                                 <a class="nav-link" href="btb.html">数字货币交易所</a>
                             </li>
                             <li class="nav-item">
-                                <img src="__PUBLIC__/img/hot.gif" class="hot" style="margin-left:100px">
+                                <img src="/static/img/hot.gif" class="hot" style="margin-left:100px">
                                 <a class="nav-link" href="wallet.html">数字货币钱包</a>
                             </li>
                             <li class="nav-item">
-                                <img src="__PUBLIC__/img/hot.gif" class="hot" style="margin-left:70px">
+                                <img src="/static/img/hot.gif" class="hot" style="margin-left:70px">
                                 <a class="nav-link" href="runSub.html">跑分系统</a>
                             </li>
                             <!-- <li class="nav-item dropdown">
-                                <img src="__PUBLIC__/img/hot.gif" class="hot" style="margin-left:100px">
+                                <img src="/static/img/hot.gif" class="hot" style="margin-left:100px">
                                 <a class="nav-link dropdown-toggle" href="http://qkl.jinbocc.com/yycj/" id="dropdown07" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">区块链产品</a>
                                 <div class="dropdown-menu" aria-labelledby="dropdown07">
                                     <a class="dropdown-item" href="pages/show.php-lang=cn&id=120.html" tppabs="http://qkl.jinbocc.com/yycj/show.php?lang=cn&id=120">数字资产交易系统</a>
@@ -76,8 +77,8 @@
 </div>
 
 <div class="app-swiper">
-    <img src="__PUBLIC__/img/banner_lxwm.png" >
-    <img src="__PUBLIC__/img/banner_lianxi_mobile.jpg"  class="app-swiper-img">
+    <img src="/static/img/banner_lxwm.png" >
+    <img src="/static/img/banner_lianxi_mobile.jpg"  class="app-swiper-img">
     <div class="swiper-pagination"></div>
 </div>
 
@@ -98,7 +99,7 @@
             <div class="j-p">
                 <b class="b5"></b><span style="color: #007bff;">在线咨询:</span>
                 <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=97693188&amp;site=qq&amp;menu=yes" target="_blank">
-                    <img src="__PUBLIC__/img/button_121.gif" border="0">97693188(客服一)
+                    <img src="/static/img/button_121.gif" border="0">97693188(客服一)
                 </a> 
             </div>
             <div class="j-right">
@@ -112,7 +113,7 @@
             <div class="row">
                 <div class="col-12 col-sm-4">
                     <div class="foot-logo">
-                        <img src="__PUBLIC__/img/foot_logo.png">
+                        <img src="/static/img/foot_logo.png">
                         <ul>
                             <li><a href="#" target="_blank">区块链开发</a></li>
                             <li><a href="#" target="_blank">隐私政策</a></li>
@@ -134,7 +135,7 @@
                     <dl class="foot-tel">
                         <dt>微信服务</dt>
                         <dd>
-                           <img src="__PUBLIC__/img/wx.png" alt="">
+                           <img src="/static/img/wx.png" alt="">
                         </dd>
                     </dl>
                 </div>
@@ -153,49 +154,49 @@
                     <p class="text-center" style="margin-top: 43px ;
                   ">
                         <img style="width: 101px;
-                        height: 41px;" src="__PUBLIC__/img/lg360img.png" alt="">
+                        height: 41px;" src="/static/img/lg360img.png" alt="">
                         <img style="width: 101px;
-                        height: 41px;" src="__PUBLIC__/img/zr.png" alt="">
+                        height: 41px;" src="/static/img/zr.png" alt="">
                         <img style="width: 101px;
-                        height: 41px;"  src="__PUBLIC__/img/label_sm_90030.png" alt="">
+                        height: 41px;"  src="/static/img/label_sm_90030.png" alt="">
                         <img style="width: 101px;
-                        height: 41px;" src="__PUBLIC__/img/gaoXin.png" alt="">
+                        height: 41px;" src="/static/img/gaoXin.png" alt="">
                         <img style="width: 101px;
-                        height: 41px;" src="__PUBLIC__/img/qw.png" alt="">
+                        height: 41px;" src="/static/img/qw.png" alt="">
                         <img style="width: 101px;
-                        height: 41px;" src="__PUBLIC__/img/kx.png" alt="">
+                        height: 41px;" src="/static/img/kx.png" alt="">
                     </p>
-                     <p class="foot-info">Copyright © 2017 &nbsp; 郑州赛思特电子科技有限公司 &nbsp; 版权所有 &nbsp;<a href="#" target="_blank"><img src="__PUBLIC__/img/beian.png"/>&nbsp;ICP备14001146号-1</a></p>    </div>
+                     <p class="foot-info">Copyright © 2017 &nbsp; 郑州赛思特电子科技有限公司 &nbsp; 版权所有 &nbsp;<a href="#" target="_blank"><img src="/static/img/beian.png"/>&nbsp;ICP备14001146号-1</a></p>    </div>
             </div>
-            <link rel="stylesheet" href="__PUBLIC__/css/animate.min.css">
-            <script src="__PUBLIC__/js/GoToTop.js"></script>
-    <link href="__PUBLIC__/css/kf.css" type="text/css" rel="stylesheet">
-    <script src="__PUBLIC__/js/kf.js"></script>
+            <link rel="stylesheet" href="/static/css/animate.min.css">
+            <script src="/static/js/GoToTop.js"></script>
+    <link href="/static/css/kf.css" type="text/css" rel="stylesheet">
+    <script src="/static/js/kf.js"></script>
     <span id="LR_User_Icon0">
         <div class="bottom_fix">
             <div class="bottom_left">
                 <li>
-                    <a href="/index.html"><img src="__PUBLIC__/img/common_icon_home.png">返回首页</a>
+                    <a href="/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
                 </li>
                 <li>
-                    <a href="tel:15188358607"><img src="__PUBLIC__/img/common_icon_tel.png">电话咨询</a>
+                    <a href="tel:15188358607"><img src="/static/img/common_icon_tel.png">电话咨询</a>
                 </li>
             </div>
             <div class="bottom_right">
                 <li>
                     <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=97693188&amp;site=qq&amp;menu=yes" target="_blank">
-                        <img src="__PUBLIC__/img/common_icon_qq.png">在线交谈</a>
+                        <img src="/static/img/common_icon_qq.png">在线交谈</a>
                 </li>
                 <li>
                     <a href="contact.html" target="_blank">
-                        <img src="__PUBLIC__/img/common_icon_dh.png">联系我们
+                        <img src="/static/img/common_icon_dh.png">联系我们
                     </a>
                 </li>
             </div>
         </div>
     </span>
-    <script language="javascript" src="__PUBLIC__/js/LsJS.aspx"></script>
-    <link href="__PUBLIC__/css/JS5.css" rel="stylesheet" type="text/css">
+    <script language="javascript" src="/static/js/LsJS.aspx"></script>
+    <link href="/static/css/JS5.css" rel="stylesheet" type="text/css">
     
     <script>
         $(window).scroll(function() {
@@ -228,20 +229,20 @@
      var viewH = window.screen.width;  //可见高度 
       var num=4;
       if(viewH>768){
-        $(".nav-logo").attr({src:'__PUBLIC__/img/1572577150.png'})
+        $(".nav-logo").attr({src:'/static/img/1572577150.png'})
         $(window).scroll(function(){
             /*  console.log($(".navbar").offset().top)*/
             if ($(this).scrollTop() > 50) {
-                $(".nav-logo").attr({src:'__PUBLIC__/img/1572577150s.png'})
+                $(".nav-logo").attr({src:'/static/img/1572577150s.png'})
                  $(".app-navbar").addClass("navbar-fixed-top");
             } else if($(this).scrollTop()<50) {
-                $(".nav-logo").attr({src:'__PUBLIC__/img/1572577150.png'})
+                $(".nav-logo").attr({src:'/static/img/1572577150.png'})
                  $(".app-navbar").removeClass("navbar-fixed-top");
             }
         });
       }else if(viewH<=768){
         $(".app-navbar").addClass("navbar-fixed-top");
-        $(".nav-logo").attr({src:'__PUBLIC__/img/1572577150s.png'})
+        $(".nav-logo").attr({src:'/static/img/1572577150s.png'})
       }
 
 

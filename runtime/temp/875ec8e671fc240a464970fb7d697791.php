@@ -1,4 +1,4 @@
-<?php /*a:1:{s:82:"D:\phpstudy_pro\WWW\articleAdmin\web\application\index\view\index\show_detail.html";i:1584688264;}*/ ?>
+<?php /*a:1:{s:78:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\show_detail.html";i:1585709105;}*/ ?>
 <!--﻿-->
 
 <!doctype html>
@@ -71,8 +71,8 @@
 <link rel="stylesheet" href="/static/css/news.css" tppabs="/css/news.css">
 <!--平台数字钱包-->
 <div class="ptb-banner">
-    <img src="/static/img/ptb-banner.png" tppabs="/images/ptb-banner.png" alt="">
-    <img src="/static/img/ptb-banner2.png" tppabs="/images/ptb-banner2.png" alt="" class="ptb-banner-img">
+    <img src="/static/img/ptb-banner.png" alt="">
+    <img src="/static/img/ptb-banner2.png" alt="" class="ptb-banner-img">
 </div>
 <!--系统介绍-->
 <div class="news-content">
@@ -80,6 +80,7 @@
         <div class="container">
             <div class="row">
                 <!--左边导航-->
+
                 <div class="side-box col-md-3">
                     <dl class="side-list">
                         <dt>
@@ -89,10 +90,9 @@
                         </dt>
                         <dd class="cord-fff" id="n1">
                             <ul class="left10">
-                                <li><a href="newList.html" >产品动态</a></li>
-                                <li><a href="newList.html" >行业新闻</a></li>
-                                <li><a href="newList.html" >数字资产技术专题</a></li>
-                                <li><a href="newList.html">WEB3技术专题</a></li>
+                                <?php if(is_array($result) || $result instanceof \think\Collection || $result instanceof \think\Paginator): $i = 0; $__LIST__ = $result;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$result): $mod = ($i % 2 );++$i;?>
+                                <li><a href="<?php echo url('index/index/articleList',array('categoryid'=>$result['id'])); ?>"><?php echo htmlentities($result['category']); ?></a></li>
+                                <?php endforeach; endif; else: echo "" ;endif; ?>
                             </ul>
                         </dd>
                     </dl>
@@ -132,8 +132,15 @@
                         </div>
                         <div class="page news_page">
                             <div class="tags">
-                                <span class="fl">上一篇：<a href="shownews.php-lang=cn&id=52.html" tppabs="http://qkl.jinbocc.com/news/shownews.php?lang=cn&id=52">拥抱Web 3.0：新的互联网时代即将开始</a> </span>
-                                <span class="fr">下一篇：<a href="shownews.php-lang=cn&id=58.html" tppabs="http://qkl.jinbocc.com/news/shownews.php?lang=cn&id=58">开源显卡挖矿软件有哪些?</a> </span>
+                                <?php if($front['id'] > 0): ?>
+                                <span class="fl">上一篇：<a href="<?php echo url('index/index/showDetail',array('id'=>$front['id'])); ?>"><?php echo htmlentities($front['title']); ?></a> </span>
+                                <?php else: ?>
+                                <span class="fr">上一篇：已经是第一篇了 </span>
+<?php endif; if($after['id'] > 0): ?>
+                                <span class="fr">下一篇：<a href="<?php echo url('index/index/showDetail',array('id'=>$after['id'])); ?>"><?php echo htmlentities($after['title']); ?></a> </span>
+                                <?php else: ?>
+                                <span class="fr">下一篇：已经是最后一篇了 </span>
+                                <?php endif; ?>
                             </div>
                         </div>
                     </div>
@@ -152,9 +159,10 @@
                     <div class="foot-logo">
                         <img src="/static/img/foot_logo.png">
                         <ul>
-                            <li><a href="#" target="_blank">赛思特科技官网</a></li>
-                            <li><a href="#" target="_blank">赛思特APP开发</a></li>
-                        
+                            <li><a href="#" target="_blank">区块链开发</a></li>
+                            <li><a href="#" target="_blank">隐私政策</a></li>
+                            <li><a href="/sitemap.xml" target="_blank">xml地图</a></li>
+                            <!-- <li><a href="#" target="_blank"></a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -231,7 +239,7 @@
         <div class="bottom_fix">
             <div class="bottom_left">
                 <li>
-                    <a href="/static/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
+                    <a href="/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
                 </li>
                 <li>
                     <a href="tel:15188358607"><img src="/static/img/common_icon_tel.png">电话咨询</a>
@@ -247,7 +255,7 @@
                         <img src="/static/img/common_icon_qq.png">在线交谈</a>
                 </li>
                 <li>
-                    <a href="contact.html" target="_blank">
+                    <a href="/pages/contact.html" target="_blank">
                         <img src="/static/img/common_icon_dh.png">联系我们
                     </a>
                 </li>

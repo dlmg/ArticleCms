@@ -1,4 +1,4 @@
-<?php /*a:1:{s:77:"D:\phpstudy_pro\WWW\articleAdmin\web\application\index\view\index\runSub.html";i:1584688264;}*/ ?>
+<?php /*a:1:{s:73:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\runSub.html";i:1585703844;}*/ ?>
 <!DOCTYPE html>
 
 <html lang="en"><head>
@@ -245,7 +245,7 @@
                 <div class="remen18">
                     <p class="remen19">项目玩法：</p>
                     <div class="remen20">
-                        静态奖励：1000元从EP市场购入1000余额，得到800余额和200积分，然后你
+                        静态奖励：1000元从EP市场购入1000余额，得到800余额和200积分，然后你就可以随心所欲的参加活动。
                     </div>
                 </div>
                 <div class="remen18">
@@ -256,6 +256,10 @@
                         <p>3、线上线下实体流通应用，任何行业都可以对接。</p>
                         <p>......</p>
                         <p>（PS:页面字数有限，与实际制度有出入，详细制度请咨询在线客服）</p>
+                        <div class="remen12">
+                            <p><a target="_blank" href="#">立即体验</a></p>
+                            <p><a target="_blank" href="#">获取报价</a></p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -522,9 +526,10 @@
                         <div class="foot-logo">
                             <img src="/static/img/foot_logo.png">
                             <ul>
-                                <li><a href="#" target="_blank">赛思特科技官网</a></li>
-                                <li><a href="#" target="_blank">赛思特APP开发</a></li>
-                            
+                                <li><a href="#" target="_blank">区块链开发</a></li>
+                                <li><a href="#" target="_blank">隐私政策</a></li>
+                                <li><a href="/sitemap.xml" target="_blank">xml地图</a></li>
+                                <!-- <li><a href="#" target="_blank"></a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -587,7 +592,7 @@
     <div class="bottom_fix">
         <div class="bottom_left">
             <li>
-                <a href="/static/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
+                <a href="/index.html"><img src="/static/img/common_icon_home.png">返回首页</a>
             </li>
             <li>
                 <a href="tel:15188358607"><img src="/static/img/common_icon_tel.png">电话咨询</a>
