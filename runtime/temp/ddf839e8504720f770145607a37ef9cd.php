@@ -1,4 +1,4 @@
-<?php /*a:2:{s:78:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\index\article_add.html";i:1585550423;s:73:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\public\index.html";i:1585551168;}*/ ?>
+<?php /*a:2:{s:78:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\index\article_add.html";i:1585550423;s:73:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\public\index.html";i:1585648462;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,8 +18,6 @@
     <!-- page specific plugin styles -->
 
     <!-- fonts -->
-
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
 
     <!-- ace styles -->
 
@@ -83,7 +81,7 @@
                         </li>
 
                         <li>
-                            <a href="<?php echo url('index/editpwd'); ?>">
+                            <a href="<?php echo url('index/editPwd'); ?>">
                                 <i class="icon-edit-sign"></i>
                                 修改密码
                             </a>

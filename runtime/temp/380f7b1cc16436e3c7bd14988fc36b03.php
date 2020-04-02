@@ -1,4 +1,4 @@
-<?php /*a:1:{s:72:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\index.html";i:1585709561;}*/ ?>
+<?php /*a:1:{s:72:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\index.html";i:1585731188;}*/ ?>
 <!DOCTYPE html>
 <!-- saved from url=(0023)http://qkl.jinbocc.com/ -->
 <html lang="zh-CN" style="height: 100%;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,7 +19,6 @@
 <script src="/static/js/jquery-1.8.3.min.js" type="text/javascript"></script>
 <script src="/static/js/jquery-3.4.1.min.js"></script>
 <script src="/static/js/bootstrap.js"></script>
-<script type="text/javascript" charset="utf-8" src="/static/js/CdCheck.aspx"></script>
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" style="height: 100%;">

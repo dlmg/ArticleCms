@@ -1,4 +1,4 @@
-<?php /*a:1:{s:70:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\btb.html";i:1585189045;}*/ ?>
+<?php /*a:1:{s:70:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\btb.html";i:1585731148;}*/ ?>
 <!DOCTYPE html>
 <!-- saved from url=(0051)http://qkl.jinbocc.com/yycj/show.php?lang=cn&id=120 -->
 <html lang="zh-CN" style="height: 100%;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -18,10 +18,7 @@
 <script src="/static/js/jquery-1.8.3.min.js" type="text/javascript"></script>
 <script src="/static/js/jquery-3.4.1.min.js"></script>
 <script src="/static/js/bootstrap.js"></script>
-
-
-
-<script type="text/javascript" charset="utf-8" src="/static/js/CdCheck.aspx"></script></head>
+</head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" style="height: 100%;">
 <div class="nav-top"></div>
 <div class="head_cont">

@@ -33,7 +33,7 @@ class Index extends Base
             $data['description'] = $result['description'];
             $data['category'] = $result['category'];
             if ($art->create($data)) {
-                $this->success('发布成功，正在跳转到首页', 'index/index');
+                $this->success('发布成功，正在跳转到首页', 'index/articleList');
             } else {
                 $this->error('发布失败，请重新发送');
             }

@@ -1,4 +1,4 @@
-<?php /*a:2:{s:79:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\index\article_list.html";i:1585648198;s:73:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\public\index.html";i:1585552834;}*/ ?>
+<?php /*a:2:{s:79:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\index\article_list.html";i:1585648198;s:73:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\public\index.html";i:1585648462;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,8 +18,6 @@
     <!-- page specific plugin styles -->
 
     <!-- fonts -->
-
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
 
     <!-- ace styles -->
 

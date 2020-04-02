@@ -1,4 +1,4 @@
-<?php /*a:1:{s:78:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\show_detail.html";i:1585709105;}*/ ?>
+<?php /*a:1:{s:78:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\show_detail.html";i:1585730826;}*/ ?>
 <!--﻿-->
 
 <!doctype html>
@@ -20,6 +20,7 @@
 <script src="/static/js/jquery-1.8.3.min.js"  type="text/javascript"></script>
 <script src="/static/js/jquery-3.4.1.min.js" ></script>
 <script src="/static/js/bootstrap.js" ></script>
+<script src="/static/js/swiper.min.js" ></script>
 
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" >
