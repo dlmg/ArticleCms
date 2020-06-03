@@ -1,4 +1,4 @@
-<?php /*a:2:{s:79:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\index\article_edit.html";i:1585040443;s:73:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\public\index.html";i:1585043245;}*/ ?>
+<?php /*a:2:{s:79:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\index\article_edit.html";i:1585550501;s:73:"D:\phpstudy_pro\WWW\articleAdmin\application\admin\view\public\index.html";i:1585648462;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,8 +18,6 @@
     <!-- page specific plugin styles -->
 
     <!-- fonts -->
-
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
 
     <!-- ace styles -->
 
@@ -79,6 +77,13 @@
                             <a href="<?php echo url('login/logout'); ?>">
                                 <i class="icon-off"></i>
                                 退出
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="<?php echo url('index/editPwd'); ?>">
+                                <i class="icon-edit-sign"></i>
+                                修改密码
                             </a>
                         </li>
                     </ul>
@@ -142,7 +147,7 @@
                         <b class="arrow icon-angle-down"></b>
                     </a>
 
-                    <ul class="submenu">
+                    <ul class="submenu" <?php if($action == 'article'): ?>style="display:block;"<?php else: ?>style="display:none;"<?php endif; ?>>
                         <li>
                             <a href="<?php echo url('admin/index/articleAdd'); ?>">
                                 <i class="icon-double-angle-right"></i>
@@ -244,10 +249,6 @@
 </table>
     </form>
 </div>
-        </div>
-        </div>
-    </div>
-</div>
 <script type="text/javascript" src="/static/ueditor/ueditor.config.js"></script>
 <!-- 编辑器源码文件 -->
 <script type="text/javascript" src="/static/ueditor/ueditor.all.js"></script>
@@ -315,7 +316,6 @@
             </div>
         </div><!-- /#ace-settings-container -->
     </div><!-- /.main-container-inner -->
-
     <a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
         <i class="icon-double-angle-up icon-only bigger-110"></i>
     </a>

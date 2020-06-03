@@ -1,4 +1,4 @@
-<?php /*a:1:{s:72:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\index.html";i:1585731188;}*/ ?>
+<?php /*a:3:{s:72:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\index\index.html";i:1589428750;s:74:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\public\header.html";i:1589428439;s:78:"D:\phpstudy_pro\WWW\articleAdmin\application\index\view\public\all-footer.html";i:1589425012;}*/ ?>
 <!DOCTYPE html>
 <!-- saved from url=(0023)http://qkl.jinbocc.com/ -->
 <html lang="zh-CN" style="height: 100%;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -25,48 +25,49 @@
 <div class="nav-top"></div>
 <div class="head_cont">
     <nav class="navbar navbar-default navbar-expand-md navbar-dark app-navbar">
-        <div class="container">
-            <a class="navbar-brand" href="index.html">
-                <img class="nav-logo" src="/static/img/1572577150.png" alt="赛思特科技logo">
-            </a>
-            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
-                <!-- <span class="navbar-toggler-icon"></span> -->
-                <span class="" style="color: #000;">☰</span>
-            </button>
-            <div class="navbar-collapse collapse" id="navbarsExample07">
-                <ul class="navbar-nav ml-auto navbar-nav ml-auto justify-content-end col-lg-12 pr-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link " href="index.html">首页</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="pages/btb.html">数字货币交易所</a>
-                    </li>
-                    <li class="nav-item">
-                        <img src="/static/img/hot.gif" class="hot" style="margin-left:100px">
-                        <a class="nav-link" href="pages/wallet.html">数字货币钱包</a>
-                    </li>
-                    <li class="nav-item">
-                        <img src="/static/img/hot.gif" class="hot" style="margin-left:70px">
-                        <a class="nav-link" href="pages/runSub.html">跑分系统</a>
-                    </li>
-                    <!-- <li class="nav-item dropdown">
-                        <img src="/static/img/hot.gif" class="hot" style="margin-left:100px">
-                        <a class="nav-link dropdown-toggle" href="http://qkl.jinbocc.com/yycj/" id="dropdown07" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">区块链产品</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown07">
-                            <a class="dropdown-item" href="pages/show.php-lang=cn&id=120.html" tppabs="http://qkl.jinbocc.com/yycj/show.php?lang=cn&id=120">数字资产交易系统</a>
-                            <a class="dropdown-item" href="pages/show.php-lang=cn&id=107.html" tppabs="http://qkl.jinbocc.com/yycj/show.php?lang=cn&id=107">数字资产钱包</a>
-                        </div>
-                    </li> -->
-                    <li class="nav-item">
-                        <a class="nav-link" href="pages/anli.html">案例与优势</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="pages/contact.html">联系我们</a>
-                    </li>
-                </ul>
-            </div>
+    <div class="container">
+        <a class="navbar-brand" href="/index.html">
+            <img class="nav-logo" src="/static/img/1572577150.png" alt="赛思特科技logo">
+        </a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample07"
+            aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+            <!-- <span class="navbar-toggler-icon"></span> -->
+            <span class="" style="color: #000;">☰</span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarsExample07">
+            <ul class="navbar-nav ml-auto navbar-nav ml-auto justify-content-end col-lg-12 pr-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link " href="/index.html">首页</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/pages/btb.html">数字货币交易所</a>
+                </li>
+                <li class="nav-item">
+                    <img src="/static/img/hot.gif" class="hot" style="margin-left:100px">
+                    <a class="nav-link" href="/pages/wallet.html">数字货币钱包</a>
+                </li>
+                <li class="nav-item">
+                    <img src="/static/img/hot.gif" class="hot" style="margin-left:70px">
+                    <a class="nav-link" href="/pages/runSub.html">区块链最新模式</a>
+                </li>
+                <!-- <li class="nav-item dropdown">
+                    <img src="/static/img/hot.gif" class="hot" style="margin-left:100px">
+                    <a class="nav-link dropdown-toggle" href="http://qkl.jinbocc.com/yycj/" id="dropdown07" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">区块链产品</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdown07">
+                        <a class="dropdown-item" href="pages/show.php-lang=cn&id=120.html" tppabs="http://qkl.jinbocc.com/yycj/show.php?lang=cn&id=120">数字资产交易系统</a>
+                        <a class="dropdown-item" href="pages/show.php-lang=cn&id=107.html" tppabs="http://qkl.jinbocc.com/yycj/show.php?lang=cn&id=107">数字资产钱包</a>
+                    </div>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link" href="/pages/anli.html">案例与优势</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/pages/contact.html">联系我们</a>
+                </li>
+            </ul>
         </div>
-    </nav>
+    </div>
+</nav>
 </div>
 
 
@@ -367,7 +368,7 @@
     <script src="/static/js/custom.js"></script> -->
     <!--我们的优势-->
     <div class="home-wmdys">
-        <div class="container">
+        <div class="container">社交软件
             <div class="row justify-content-center align-content-center">
                 <div class="col-lg-12 text-center home-title1  wow fadeInLeft" style="visibility: hidden; animation-name: none;">
                     <h2>我们的优势</h2>
@@ -592,65 +593,65 @@
     <div class="container foot-box">
         <div class="row">
             <div class="col-12 col-sm-4">
-                <div class="foot-logo">
-                    <img src="/static/img/foot_logo.png">
-                    <ul>
-                        <li><a href="#" target="_blank">区块链开发</a></li>
-                        <li><a href="#" target="_blank">隐私政策</a></li>
-                        <li><a href="/sitemap.xml" target="_blank">xml地图</a></li>
-                        <!-- <li><a href="#" target="_blank"></a></li> -->
-                    </ul>
-                </div>
-            </div>
-            <div class="col-12 col-sm-3">
-                <dl class="foot-tel">
-                    <dt>服务热线</dt>
-                    <dd>
-                        <h2><a href="tel://15188358607">15188358607</a></h2>
-                        <p>服务咨询（24小时服务）</p>
-                    </dd>
-                </dl>
-            </div>
+    <div class="foot-logo">
+        <img src="/static/img/foot_logo.png">
+        <ul>
+            <li><a href="#" target="_blank">区块链开发</a></li>
+            <li><a href="#" target="_blank">隐私政策</a></li>
+            <li><a href="/sitemap.xml" target="_blank">xml地图</a></li>
+            <!-- <li><a href="#" target="_blank"></a></li> -->
+        </ul>
+    </div>
+</div>
+<div class="col-12 col-sm-3">
+    <dl class="foot-tel">
+        <dt>服务热线</dt>
+        <dd>
+            <h2><a href="tel://15188358607">15188358607</a></h2>
+            <p>服务咨询（24小时服务）</p>
+        </dd>
+    </dl>
+</div>
 
-            <div class="col-12 col-sm-3">
-                <dl class="foot-tel">
-                    <dt>微信服务</dt>
-                    <dd>
-                       <img src=".//static/img/wx.png" alt="">
-                    </dd>
-                </dl>
-            </div>
-            <div class="col-12 col-sm-5">
-                <dl>
-                    <dt>郑州赛思特电子科技有限公司</dt>
-                    <dd>
-                        <ul>
-                            <li>总部地址：河南省郑州市金水区绿地之窗</li>
-                            <li>分部地址：深圳市南山区科创大厦</li>
-                            <!-- <li>分公司地址：广州市天河区建工路4号佳都科技大厦2号楼1F-A41号</li> -->
-                        </ul>
-                    </dd>
-                </dl>
-            </div>
+<div class="col-12 col-sm-3">
+    <dl class="foot-tel">
+        <dt>微信服务</dt>
+        <dd>
+            <img src=".//static/img/wx.png" alt="">
+        </dd>
+    </dl>
+</div>
+<div class="col-12 col-sm-5">
+    <dl>
+        <dt>郑州赛思特电子科技有限公司</dt>
+        <dd>
+            <ul>
+                <li>总部地址：河南省郑州市金水区绿地之窗</li>
+                <li>分部地址：深圳市南山区科创大厦</li>
+                <!-- <li>分公司地址：广州市天河区建工路4号佳都科技大厦2号楼1F-A41号</li> -->
+            </ul>
+        </dd>
+    </dl>
+</div>
 
 
-        <div class="col-12 col-sm-12" style="margin-top: 43px ;">
-                <p class="text-center">
-                    <img style="width: 101px;
+<div class="col-12 col-sm-12" style="margin-top: 43px ;">
+    <p class="text-center">
+        <img style="width: 101px;
                     height: 41px;" src="/static/img/lg360img.png" alt="">
-                    <img style="width: 101px;
+        <img style="width: 101px;
                     height: 41px;" src="/static/img/zr.png" alt="">
-                    <img style="width: 101px;
+        <img style="width: 101px;
                     height: 41px;"  src="/static/img/label_sm_90030.png" alt="">
-                    <img style="width: 101px;
+        <img style="width: 101px;
                     height: 41px;" src="/static/img/gaoXin.png" alt="">
-                    <img style="width: 101px;
+        <img style="width: 101px;
                     height: 41px;" src="/static/img/qw.png" alt="">
-                    <img style="width: 101px;
+        <img style="width: 101px;
                     height: 41px;" src="/static/img/kx.png" alt="">
-                </p>
-                <p class="foot-info">Copyright © 2017 &nbsp; 郑州赛思特电子科技有限公司 &nbsp; 版权所有 &nbsp;<a href="#" target="_blank"><img src="/static/img/beian.png"/>&nbsp;ICP备14001146号-1</a></p>
-        </div>
+    </p>
+    <p class="foot-info">Copyright © 2017 &nbsp; 郑州赛思特电子科技有限公司 &nbsp; 版权所有 &nbsp;<a href="#" target="_blank"><img src="/static/img/beian.png"/>&nbsp;ICP备14001146号-1</a></p>
+</div>
         </div>
 
 

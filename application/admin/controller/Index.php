@@ -201,14 +201,10 @@ class Index extends Base
     {
         $article = new Art;
         $today = date("Y-m-d", time());
-        $yesterday = mktime(0, 0, 0, date("m"), date("d") - 1, date("Y"));
-        $lastweek = strtotime("-1 week");
         $where = [['status', '=', '1']];
-        $yesterdayArr = $article->where($where)->order('id', 'asc')->select();
+        $yesterdayArr = $article->where($where)->field('id')->order('id', 'asc')->select();
         //var_dump($yesterdayArr);
         unset($where);
-        $where = [['status', '=', '1'], ['date', '>', $lastweek]];
-        $lastweekArr = $article->where($where)->select();//上周
 
         //首页
         $content = '<?xml version="1.0" encoding="UTF-8"?>' . chr(13) . '';
